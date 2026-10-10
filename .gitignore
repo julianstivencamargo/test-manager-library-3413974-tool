@@ -1,0 +1,11 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Composer / dependencies
+vendor/
+
+# Misc
+.DS_Store
+Thumbs.db
